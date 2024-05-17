@@ -1,0 +1,2 @@
+class etc:
+  pass
